@@ -1,0 +1,44 @@
+.calculator {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    width: 400px;
+    margin: 0 auto;
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#result {
+    grid-column: 1 / -1;
+    padding: 10px;
+    font-size: 18px;
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+.calculator button {
+    width: 48%;
+    padding: 5px;
+    font-size: 18px;
+    align-items: center;
+    margin-left: 5px;
+}
+
+.calculator button.operator {
+    background-color: #ff9800;
+    color: white;
+}
+
+
+.enterbutton button {
+    background-color: rgb(41, 218, 41); 
+    color: white; 
+    
+}
+
+.clearbutton button {
+    background-color: rgb(61, 77, 218); 
+    color: white; 
+    
+}

@@ -1,0 +1,16 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+#game-container {
+    width: 800px; 
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
