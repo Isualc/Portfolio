@@ -35,11 +35,14 @@ Das Portfolio ist eine webbasierte Anwendung und benötigt keinen speziellen Ins
 
 ```markdown
 ```bash
+http://www.isualc.best-site.net
 git clone https://github.com/Isualc/Portfolio.git
 
 Nutzung
 
-Um das Portfolio zu betrachten, öffnen Sie einfach die index.html-Datei in einem Webbrowser Ihrer Wahl oder es ist online unter http://www.isualc.gerat-site.net verfügbar.
+Um das Portfolio zu betrachten, öffnen Sie einfach die index.html-Datei in einem Webbrowser Ihrer Wahl oder es ist online verfügbar.
+
+
 Kontakt
 
 Claus Hierzer - claus_hierzer@gmx.at
