@@ -65,7 +65,7 @@
         </section>
     </main>
     <?php include 'footer.php'; ?>
-    <script src="./javaScript/script.js"></script>
+    <script src="../javaScript/script.js"></script>
 </body>
 
 </html>
