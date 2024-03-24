@@ -37,21 +37,22 @@ http://www.isualc.great-site.net
 ```bash
 git clone https://github.com/Isualc/Portfolio.git
 ````
-Nutzung
+## Nutzung
 
 Um das Portfolio zu betrachten, öffnen Sie einfach die index.html-Datei in einem Webbrowser Ihrer Wahl oder es ist online verfügbar.
 
 
-Kontakt
+## Kontakt
 
-Claus Hierzer - claus_hierzer@gmx.at
-Telefonnummer: +43 664 1487750
-GitHub: Isualc
-Lizenz
+    Claus Hierzer - claus_hierzer@gmx.at
+    Telefonnummer: +43 664 1487750
+    GitHub: Isualc
+
+## Lizenz
 
 Dieses Projekt ist unter der MIT Lizenz lizenziert - Details finden Sie in der LICENSE Datei.
 
-Danksagungen
+## Danksagungen
 
     Meine Familie und Freunde für ihre Unterstützung.
     CodersBay in Kapfenberg für die Ausbildungsmöglichkeiten.
