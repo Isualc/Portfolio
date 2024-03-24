@@ -8,8 +8,8 @@
             <li class="nav-item active">
                 <a class="nav-link" href="../index.html">Startseite <span class="sr-only">(aktuell)</span></a>
             </li>
-            <li class="nav-item"><a class="nav-link" href="../html/fähigkeiten.php">Fähigkeiten</a></li>
-            <li class="nav-item"><a class="nav-link" href="../html/projekte.php">Projekte</a></li>
+            <li class="nav-item"><a class="nav-link" href="../Portfolio/html/fähigkeiten.php">Fähigkeiten</a></li>
+            <li class="nav-item"><a class="nav-link" href="../Portfolio/html/projekte.php">Projekte</a></li>
         </ul>
     </div>
 </nav>

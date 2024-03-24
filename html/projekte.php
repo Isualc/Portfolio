@@ -22,7 +22,7 @@
                     <div class="card">
                         <img src="../assets/project-thumbnail1.jpg" class="card-img-top" alt="Projektbild">
                         <div class="card-body bg-dark">
-                            <a href="../projekte/RocketGame/index.php" class="btn btn-primary bg-dark border"
+                            <a href="../projekte/RocketGame/index.html" class="btn btn-primary bg-dark border"
                                 onclick="openProjectDetails('RocketGame')">Rocket Game</a>
                         </div>
                     </div>
