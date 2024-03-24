@@ -10,7 +10,6 @@
             </li>
             <li class="nav-item"><a class="nav-link" href="../html/fähigkeiten.php">Fähigkeiten</a></li>
             <li class="nav-item"><a class="nav-link" href="../html/projekte.php">Projekte</a></li>
-            <!-- <li class="nav-item"><a class="nav-link" href="../html/erfahrung.php">Erfahrung</a></li> -->
         </ul>
     </div>
 </nav>

@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 
-function openProjectDetails(projectFolder) {
+function openProjectDetails() {
    if (button === 'RocketGame') {
        window.location.href = 'projekte/RocketGame/index.html';
    } else if (button === 'RechnerJavaScript') {
