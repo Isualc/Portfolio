@@ -27,7 +27,7 @@
                 Datenbankmanagement: Verständnis grundlegender Datenbankkonzepte und Erfahrung
                 mit Datenbankmanagementsystemen, was mir die Fähigkeit verleiht,
                 Daten effizient zu speichern, abzufragen und zu verwalten.
-                <br><br>
+                <br><br><br><br>
                 <h3>Innovationsgeist und Technikaffinität:</h3>
                 <br><br><h5>Technologiebegeistert:</h5> Mein leidenschaftliches Interesse an neuen Technologien,
                 Innovationen und dem neuesten Stand der Gadgets spiegelt sich nicht nur in meiner beruflichen Laufbahn, sondern auch in meinem Alltag wider.
@@ -39,27 +39,27 @@
                 <br><br><h5>Zukunftsorientiert:</h5> Meine Faszination für die neuesten technischen Errungenschaften und mein ständiges Streben, vorne mit dabei zu sein,
                 treiben mich an, zukunftsweisende Projekte zu konzipieren und umzusetzen. Diese Zukunftsausrichtung ist besonders wertvoll in einem Feld,
                 das sich so rasant entwickelt wie die Softwareentwicklung.
-                <br><br>
+                <br><br><br><br>
                 <h3>Sprachkenntnisse:</h3>
-                <h5>Englisch:</h5> Gute Englischkenntnisse, täglich praktiziert im Umgang mit meiner Ehefrau, was eine effiziente Kommunikation in internationalen Teams
+                <br><br><h5>Englisch:</h5> Gute Englischkenntnisse, täglich praktiziert im Umgang mit meiner Ehefrau, was eine effiziente Kommunikation in internationalen Teams
                 und mit globalen Kunden ermöglicht.
-                <br><br>
+                <br><br><br><br>
                 <h3>Berufserfahrung:</h3>
-                <h5>Pflegebereich:</h5> Mehrjährige Erfahrung in der Betreuung und Unterstützung von Personen in verschiedenen Pflegeeinrichtungen.
+                <br><br><h5>Pflegebereich:</h5> Mehrjährige Erfahrung in der Betreuung und Unterstützung von Personen in verschiedenen Pflegeeinrichtungen.
                 Diese Erfahrung hat mir nicht nur wichtige soziale Kompetenzen vermittelt, sondern auch meine Fähigkeit zur Empathie,
                 Geduld und zum effektiven Zeitmanagement gestärkt.
                 <br><br><h5>Internationale Erfahrung:</h5> Ein Jahr Leben auf den Philippinen und die Eingliederung meiner Frau in Österreich zeigen meine Anpassungsfähigkeit und
                 Offenheit gegenüber neuen Kulturen und Lebensweisen.
                 <br><br>
                 <h3>Soft Skills:</h3>
-                <br>
+                <br><br>
                 <h5>Lernbereitschaft:</h5> Die ständige Erweiterung meiner Kenntnisse durch die Ausbildung zum Applikationsentwickler und das selbstgesteuerte Lernen in
                 verschiedenen Programmiersprachen zeugen von meiner hohen Lernbereitschaft und Anpassungsfähigkeit an neue Technologien.
                 <br><br><h5>Problemlösungskompetenz:</h5> Meine Ausbildung und berufliche Erfahrung haben meine analytischen Fähigkeiten und mein Problemlösungsvermögen geschärft,
                 besonders in stressigen oder herausfordernden Situationen.
                 <br><br><h5>Kommunikationsfähigkeit:</h5> Die effektive Kommunikation auf Englisch mit meiner Frau und in beruflichen Kontexten unterstreicht meine Fähigkeit zur
                 klaren und effektiven Verständigung in Teams und mit Stakeholdern.
-                <br>
+                <br><br>
             </article>
         </section>
     </main>
