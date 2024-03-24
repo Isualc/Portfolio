@@ -14,7 +14,7 @@
         <h1>Fähigkeiten und Erfahrungen</h1><br>
     </header>
     <?php include 'navbar.php'; ?>
-    <main class="container mt-5">
+    <main class="container mt-5 border">
         <section class="row">
             <article class="col-md-12">
                 <!-- <h2>Meine Fähigkeiten und Erfahrungen</h2> -->
