@@ -16,7 +16,7 @@
     <?php include 'navbar.php'; ?>
     <main class="container mt-5 border">
         <section class="row">
-            <article class="col-md-12">
+            <article class="col-md-12 mt-3">
                 <!-- <h2>Meine Fähigkeiten und Erfahrungen</h2> -->
                 <h3>Technische Fähigkeiten:</h3>
                 <h5>Betriebssysteme:</h5> Fundierte Kenntnisse in Windows und Linux,

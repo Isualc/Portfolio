@@ -22,7 +22,7 @@
                     <div class="card">
                         <img src="../assets/project-thumbnail1.jpg" class="card-img-top" alt="Projektbild">
                         <div class="card-body bg-dark">
-                            <a href="../projekte/RocketGame/index.html" class="btn btn-primary" onclick="openProjectDetails('RocketGame')">RocketGame</a>
+                            <a href="../projekte/RocketGame/index.html" class="btn btn-primary bg-dark border" onclick="openProjectDetails('RocketGame')">RocketGame</a>
                         </div>
                     </div>
                 </div>
@@ -30,7 +30,7 @@
                     <div class="card">
                         <img src="../assets/project-thumbnail2.jpg" class="card-img-top" alt="Projektbild">
                         <div class="card-body bg-dark">
-                            <a href="../projekte/RechnerJavaScript/index.php" class="btn btn-primary" onclick="openProjectDetails('RechnerJavaScript')">Taschenrechner</a>
+                            <a href="../projekte/RechnerJavaScript/index.php" class="btn btn-primary bg-dark border" onclick="openProjectDetails('RechnerJavaScript')">Taschenrechner</a>
                         </div>
                     </div>
             </div>
@@ -42,7 +42,7 @@
                     <div class="card">
                         <img src="../assets/project-thumbnail3.jpg" class="card-img-top" alt="Projektbild">
                         <div class="card-body bg-dark">
-                        <a href="../projekte/TicTacToe/index.html" class="btn btn-primary" onclick="openProjectDetails('RechnerJavaScript')">TicTacToe</a>
+                        <a href="../projekte/TicTacToe/index.html" class="btn btn-primary bg-dark border" onclick="openProjectDetails('RechnerJavaScript')">TicTacToe</a>
     </main>
     <?php include 'footer.php'; ?>
     <script src="./javaScript/script.js"></script>
