@@ -23,16 +23,16 @@ Dieses Portfolio wurde erstellt, um einen Einblick in meine beruflichen und pers
 
 ## Verwendete Technologien
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- PHP
+    - HTML
+    - CSS
+    - JavaScript
+    - Bootstrap
+    - PHP
 
 ## Installation
 
 Das Portfolio ist eine webbasierte Anwendung und benötigt keinen speziellen Installationsprozess. Für die lokale Entwicklung können Sie das Repository klonen und die Dateien auf Ihrem lokalen Server platzieren, oder es direkt online abrufen:
-http://www.isualc.great-site.net
+https://www.isualc.great-site.net
 
 ```bash
 git clone https://github.com/Isualc/Portfolio.git
