@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de" style="height: 100%;">
+<html lang="de">
 
 <head>
     <meta charset="UTF-8">
@@ -16,9 +16,9 @@
     <?php include 'navbar.php'; ?>
     <main class="container mt-5 border">
         <section id="projects" class="mt-4">
-            <h2>Projekte</h2>
+            <h3>Projekte</h3>
             <div class="row">
-                <div class="col-md-4 mb-4 bg-dark">
+                <div class="col-md-6 mb-4 bg-dark">
                     <div class="card">
                         <img src="../assets/project-thumbnail1.jpg" class="card-img-top" alt="Projektbild">
                         <div class="card-body bg-dark">
@@ -27,21 +27,20 @@
                         </div>
                     </div>
                 </div>
-        </section>
-        <section id="projectDetails" class="mt-4">
-            <div class="col-md-4 mb-4 bg-dark">
-                <div class="card">
-                    <img src="../assets/project-thumbnail2.jpg" class="card-img-top" alt="Projektbild">
-                    <div class="card-body bg-dark">
-                        <a href="../projekte/RechnerJavaScript/index.php" class="btn btn-primary bg-dark border"
-                            onclick="openProjectDetails('RechnerJavaScript')">Taschenrechner</a>
+                <div class="col-md-6 mb-4 bg-dark">
+                    <div class="card">
+                        <img src="../assets/project-thumbnail2.jpg" class="card-img-top" alt="Projektbild">
+                        <div class="card-body bg-dark">
+                            <a href="../projekte/RechnerJavaScript/index.php" class="btn btn-primary bg-dark border"
+                                onclick="openProjectDetails('RechnerJavaScript')">Taschenrechner</a>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
         <section id="projectDetails" class="mt-4">
             <div class="row">
-                <div class="col-md-4 mb-4 bg-dark">
+                <div class="col-md-6 mb-4 bg-dark">
                     <div class="card">
                         <img src="../assets/project-thumbnail3.jpg" class="card-img-top" alt="Projektbild">
                         <div class="card-body bg-dark">
@@ -50,10 +49,7 @@
                         </div>
                     </div>
                 </div>
-        </section>
-        <section id="projects" class="mt-4">
-            <div class="row">
-                <div class="col-md-4 mb-4 bg-dark">
+                <div class="col-md-6 mb-4 bg-dark">
                     <div class="card">
                         <img src="../assets/project-thumbnail4.jpg" class="card-img-top" alt="Projektbild">
                         <div class="card-body bg-dark">
@@ -62,10 +58,11 @@
                         </div>
                     </div>
                 </div>
+            </div>
         </section>
         <section id="projects" class="mt-4">
             <div class="row">
-                <div class="col-md-4 mb-4 bg-dark">
+                <div class="col-md-6 mb-4 bg-dark">
                     <div class="card">
                         <img src="../assets/project-thumbnail5.jpg" class="card-img-top" alt="Projektbild">
                         <div class="card-body bg-dark">
@@ -74,6 +71,7 @@
                         </div>
                     </div>
                 </div>
+            </div>
         </section>
     </main>
     <?php include 'footer.php'; ?>
