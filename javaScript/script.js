@@ -17,5 +17,7 @@ function openProjectDetails() {
          window.location.href = 'projekte/TicTacToe/index.html';
    } else if (button === 'RPG-Onlineshop') {
          window.location.href = 'projekte/RPG-Onlineshop/index.php';
+   } else if (button === 'SnakeGame') {
+         window.location.href = 'https://github.com/Isualc/Java-Projects/tree/main/SnakeGame';
    }
 }

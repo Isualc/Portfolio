@@ -63,6 +63,18 @@
                     </div>
                 </div>
         </section>
+        <section id="projects" class="mt-4">
+            <div class="row">
+                <div class="col-md-4 mb-4 bg-dark">
+                    <div class="card">
+                        <img src="../assets/project-thumbnail5.jpg" class="card-img-top" alt="Projektbild">
+                        <div class="card-body bg-dark">
+                            <a href="https://github.com/Isualc/Java-Projects/tree/main/SnakeGame" class="btn btn-primary bg-dark border"
+                                onclick="openProjectDetails('SnakeGame')">Snake (Java GIU)</a>
+                        </div>
+                    </div>
+                </div>
+        </section>
     </main>
     <?php include 'footer.php'; ?>
     <script src="../javaScript/script.js"></script>
