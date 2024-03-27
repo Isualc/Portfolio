@@ -4,12 +4,15 @@ include_once 'user.php';
 include_once 'products.php';
 
 $db = (new Database())->getConnection();
-$query = "SELECT * FROM products";
-$stmt = $db->prepare($query);
-$stmt->execute();
-$products = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
-$productsObj = new Products($db);
+if ($db) {
+    $query = "SELECT * FROM products";
+    $stmt = $db->prepare($query);
+    $stmt->execute();
+    $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
+
+    $productsObj = new Products($db);
+}
 
 $previousUrl = $_SERVER['HTTP_REFERER'] ?? null;
 ?>

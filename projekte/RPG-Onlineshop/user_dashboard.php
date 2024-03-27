@@ -25,7 +25,6 @@ $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
 // Instantiate Products class and display products
 $productsObj = new Products($db);
 
-
 $previousUrl = $_SERVER['HTTP_REFERER'] ?? null;
 ?>
 
@@ -63,7 +62,11 @@ $previousUrl = $_SERVER['HTTP_REFERER'] ?? null;
             <div class="dashboard-container">
                 <h1>Höllisch viel Spaß im Shop, <?php echo htmlspecialchars($_SESSION['username']); ?></h1>
                 <div class="product-container">
-                    <?php $productsClass->displayProductCards($products); ?>
+                    <?php 
+                    if ($productsClass) {
+                        $productsClass->displayProductCards($products);
+                    }
+                    ?>
                 </div>
             </div>
         </div>
