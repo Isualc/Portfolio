@@ -57,3 +57,4 @@ Dieses Projekt ist unter der MIT Lizenz lizenziert - Details finden Sie in der L
     Meine Familie und Freunde für ihre Unterstützung.
     CodersBay in Kapfenberg für die Ausbildungsmöglichkeiten.
     
+***REDACTED-ANTHROPIC-KEY***
