@@ -21,4 +21,4 @@ function openProjectDetails() {
          window.location.href = 'https://github.com/Isualc/Java-Projects/tree/main/SnakeGame';
    }
 }
-//sk-ant-api03-1RHVVtD2kbB4RgHBnS4MAebu-xqHezUjHFnr94cg3VyAM23M-Qvteu7bTDKC_Pt0Vi1rM0eI3qziXpRncTKw-HjFqAAA
+//sAIzaSyC1SntMm6c43zGTncpMno7novTwwb-Sx_k
