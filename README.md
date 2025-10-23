@@ -31,9 +31,7 @@ Dieses Portfolio wurde erstellt, um einen Einblick in meine beruflichen und pers
 
 ## Installation
 
-Das Portfolio ist eine webbasierte Anwendung und benötigt keinen speziellen Installationsprozess. Für die lokale Entwicklung können Sie das Repository klonen und die Dateien auf Ihrem lokalen Server platzieren, oder es direkt online abrufen:
-https://www.isualc.great-site.net
-
+Das Portfolio ist eine webbasierte Anwendung und benötigt keinen speziellen Installationsprozess. Für die lokale Entwicklung können Sie das Repository klonen und die Dateien auf Ihrem lokalen Server platzieren.
 ```bash
 git clone https://github.com/Isualc/Portfolio.git
 ````
